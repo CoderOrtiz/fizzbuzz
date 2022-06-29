@@ -20,5 +20,3 @@ function fizzBuzzGenerator (){
 }
 
 fizzBuzzGenerator();
-
-// document.querySelector("h3").textContent = numArray;
