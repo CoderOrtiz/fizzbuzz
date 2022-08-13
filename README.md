@@ -1,5 +1,5 @@
-# fizzbuzz
-Practicing Programming Language Agnostics
+# Practicing Programming Language Agnostics
+Practicing Programming Language Agnostics with the FizzBuzz Challenge
 
 
 ## Description:
